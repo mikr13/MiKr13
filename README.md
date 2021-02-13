@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihir Kumar</h1>
-<h3 align="center">Indian 🇮🇳 Fast learner & go-getter JavaScript & Design Pattern Enthusiast Freelance developer and adviser. A great friend in need. @open-devs co-founder</h3>
+<h3 align="center">Indian 🇮🇳 Fast learner & go-getter JavaScript & Design Pattern Enthusiast Freelance developer and adviser. A great friend in need. [@open-devs](https://github.com/open-devs) co-founder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikr13&label=Profile%20views&color=0e75b6&style=flat" alt="mikr13" /> </p>
 
