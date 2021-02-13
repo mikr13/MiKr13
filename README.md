@@ -29,11 +29,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: grid;grid-template-columns: repeat(5, 1fr);gap: 10px;grid-auto-rows: minmax(20px, auto);">
-<style>
-a {
-    color: yellow;
-}
-</style>
 <a href="https://codepen.io/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/codepen.svg" alt="mikr13" height="30" width="40" /></a>
 <a href="https://dev.to/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/dev-dot-to.svg" alt="mikr13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/linkedin.svg" alt="mikr13" height="30" width="40" /></a>
