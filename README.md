@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mihir Kumar</h1>
-<h3 align="center">Indian 🇮🇳 Fast learner & go-getter JavaScript & Design Pattern Enthusiast Freelance developer and adviser. A great friend in need. [@open-devs](https://github.com/open-devs) co-founder</h3>
+<h3 align="center">Indian 🇮🇳 Fast learner & go-getter JavaScript & Design Pattern Enthusiast Freelance developer and adviser. A great friend in need.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikr13&label=Profile%20views&color=0e75b6&style=flat" alt="mikr13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikr13" alt="mikr13" /></a> </p>
+
+- 🔥 I'm co-founder of open source initiate [open-devs](https://github.com/open-devs) 
 
 - 🔭 I’m currently working on [relax a little (vs code extension)](https://github.com/open-devs/relax-a-little)
 
