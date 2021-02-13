@@ -25,6 +25,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Answer by MiKr13 for list tags contained by a branch](https://stackoverflow.com/questions/2381665/list-tags-contained-by-a-branch/66120388#66120388)
+- [My early experiences working in product based startup companies](https://dev.to/mikr13/my-early-experiences-working-in-product-based-startup-companies-4dgf)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
