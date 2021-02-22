@@ -27,8 +27,8 @@
 
 ### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
+- [Answer by MiKr13 for Node.js nodemailer error - wrong version number/invalid greeting](https://stackoverflow.com/questions/66317125/node-js-nodemailer-error-wrong-version-number-invalid-greeting/66317696#66317696)
 - [Answer by MiKr13 for list tags contained by a branch](https://stackoverflow.com/questions/2381665/list-tags-contained-by-a-branch/66120388#66120388)
-- [My early experiences working in product based startup companies](https://dev.to/mikr13/my-early-experiences-working-in-product-based-startup-companies-4dgf)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
