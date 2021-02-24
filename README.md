@@ -8,7 +8,7 @@
 
 </h2>
 
-<h3 align="center">Indian (<code>IN</code>). Fast learner & go-getter JavaScript & Design Pattern Enthusiast Freelance developer and adviser. A great friend! 🙌</h3>
+<h3 align="center">Indian (<code>IN</code>). Fast learner & go-getter. JavaScript & Design Pattern Enthusiast. Freelance developer and adviser. A great friend! 🙌</h3>
 
 <br>
 <br>
