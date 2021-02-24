@@ -4,9 +4,6 @@
 
 [![Website](https://img.shields.io/website?label=opendevs.in&style=for-the-badge&url=https://opendevs.in)](https://opendevs.in)
 
-</h2>
-<h2 align="center">
-
 [![Profile Views](https://komarev.com/ghpvc/?username=mikr13&label=Profile%20views&color=0e75b6&style=flat)](https://linkedin.com/in/mikr13)
 
 </h2>
@@ -16,7 +13,7 @@
 <br>
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikr13" alt="mikr13" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikr13&show_icons=true&locale=en&layout=compact" alt="mikr13" /></a> </p>
 
 - 🔥 I'm co-founder of open source initiate [open-devs](https://github.com/open-devs)
 
@@ -30,11 +27,9 @@
 
 - 💬 Ask me about **React, Vue.js, Angular, Node.js, JavaScript, TypeScript, devops**, basically everything **JS**.
 
-- 🥅 2021 Goals: Make great products under open devs
-
-- 📫 How to reach me **mihirpandey.13@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/mikr13](https://www.linkedin.com/in/mikr13)
+
+- 🥅 2021 Goals: Make great products under open devs
 
 - ⚡ Fun fact **Two things I love are walking roads less taken & being helpful**
 
@@ -50,12 +45,12 @@
 ### Connect with me:
 
 <p align="center">
-<a href="https://codepen.io/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/codepen.svg" alt="mikr13" width="26" /></a>&nbsp;
-<a href="https://dev.to/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/dev-dot-to.svg" alt="mikr13" width="26" /></a>&nbsp;
-<a href="https://linkedin.com/in/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/linkedin.svg" alt="mikr13" width="26" /></a>&nbsp;
-<a href="https://stackoverflow.com/users/9360885/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/stackoverflow.svg" alt="9360885/mikr13" width="26" /></a>&nbsp;
-<a href="https://codesandbox.com/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/codesandbox.svg" alt="mikr13" width="26" /></a>&nbsp;
-<a href="https://medium.com/@mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/medium.svg" alt="@mikr13" width="26" /></a>&nbsp;
+<a href="https://codepen.io/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/codepen.svg" alt="mikr13" width="26" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://dev.to/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/dev-dot-to.svg" alt="mikr13" width="26" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://linkedin.com/in/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/linkedin.svg" alt="mikr13" width="26" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://stackoverflow.com/users/9360885/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/stackoverflow.svg" alt="9360885/mikr13" width="26" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://codesandbox.com/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/codesandbox.svg" alt="mikr13" width="26" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://medium.com/@mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/medium.svg" alt="@mikr13" width="26" /></a>&nbsp; &nbsp; &nbsp;
 <a href="https://www.leetcode.com/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/leetcode.svg" alt="mikr13" width="26" /></a>
 </p>
 
