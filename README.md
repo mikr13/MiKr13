@@ -40,7 +40,7 @@
 - [Answer by MiKr13 for Unable to install node modules in Nestjs project](https://stackoverflow.com/questions/66544116/unable-to-install-node-modules-in-nestjs-project/66565267#66565267)
 - [Answer by MiKr13 for Node.js nodemailer error - wrong version number/invalid greeting](https://stackoverflow.com/questions/66317125/node-js-nodemailer-error-wrong-version-number-invalid-greeting/66317696#66317696)
 - [you need to relax a little developers](https://dev.to/opendevs_2020/you-need-to-relax-a-little-developers-4l6c)
-- [you need to relax a little developers](https://medium.com/@opendevs-2020/you-need-to-relax-a-little-developers-9c8d32728867?source=rss-4e39b8f9d0e2------2)
+- [you need to relax a little developers](https://opendevs-2020.medium.com/you-need-to-relax-a-little-developers-9c8d32728867?source=rss-4e39b8f9d0e2------2)
 - [Answer by MiKr13 for list tags contained by a branch](https://stackoverflow.com/questions/2381665/list-tags-contained-by-a-branch/66120388#66120388)
 - [fastify typeScript generator: a generator for creating fastify server with typescript](https://dev.to/opendevs_2020/fastify-typescript-generator-a-generator-for-creating-fastify-server-with-typescript-j3e)
 - [fastify typeScript generator: a generator for creating fastify server with typescript](https://blog.usejournal.com/fastify-typescript-generator-a-generator-for-creating-fastify-server-with-typescript-c178dcf282c9?source=rss-4e39b8f9d0e2------2)
