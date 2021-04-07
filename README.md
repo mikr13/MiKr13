@@ -40,10 +40,8 @@
 - [Answer by MiKr13 for Unable to install node modules in Nestjs project](https://stackoverflow.com/questions/66544116/unable-to-install-node-modules-in-nestjs-project/66565267#66565267)
 - [Answer by MiKr13 for Node.js nodemailer error - wrong version number/invalid greeting](https://stackoverflow.com/questions/66317125/node-js-nodemailer-error-wrong-version-number-invalid-greeting/66317696#66317696)
 - [you need to relax a little developers](https://dev.to/opendevs_2020/you-need-to-relax-a-little-developers-4l6c)
-- [you need to relax a little developers](https://opendevs-2020.medium.com/you-need-to-relax-a-little-developers-9c8d32728867?source=rss-4e39b8f9d0e2------2)
 - [Answer by MiKr13 for list tags contained by a branch](https://stackoverflow.com/questions/2381665/list-tags-contained-by-a-branch/66120388#66120388)
 - [fastify typeScript generator: a generator for creating fastify server with typescript](https://dev.to/opendevs_2020/fastify-typescript-generator-a-generator-for-creating-fastify-server-with-typescript-j3e)
-- [fastify typeScript generator: a generator for creating fastify server with typescript](https://blog.usejournal.com/fastify-typescript-generator-a-generator-for-creating-fastify-server-with-typescript-c178dcf282c9?source=rss-4e39b8f9d0e2------2)
 - [My early experiences working in product based startup companies](https://dev.to/mikr13/my-early-experiences-working-in-product-based-startup-companies-4dgf)
 - [Answer by MiKr13 for node.js: read a text file into an array. (Each line an item in the array.)](https://stackoverflow.com/questions/6831918/node-js-read-a-text-file-into-an-array-each-line-an-item-in-the-array/63155678#63155678)
 - [Answer by MiKr13 for Creating watermark using html and css](https://stackoverflow.com/questions/21458162/creating-watermark-using-html-and-css/63021761#63021761)
@@ -52,6 +50,8 @@
 - [Answer by MiKr13 for Regex for password must contain at least eight characters, at least one number and both lower and uppercase letters and special characters](https://stackoverflow.com/questions/19605150/regex-for-password-must-contain-at-least-eight-characters-at-least-one-number-a/62196974#62196974)
 - [Answer by MiKr13 for How to prevent npm from installing demo/sample/example/test code for a package?](https://stackoverflow.com/questions/61814829/how-to-prevent-npm-from-installing-demo-sample-example-test-code-for-a-package/61815263#61815263)
 - [Answer by MiKr13 for How set caret position in tinyMCE?](https://stackoverflow.com/questions/61569179/how-set-caret-position-in-tinymce/61570854#61570854)
+- [Answer by MiKr13 for How does node cron remembers its tasks?](https://stackoverflow.com/questions/61515482/how-does-node-cron-remembers-its-tasks/61515747#61515747)
+- [My early experiences working in product based startup companies](https://medium.com/@mikr13/my-early-experiences-working-in-product-based-startup-companies-f986d3d34035?source=rss-a0fd1ee09f18------2)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
