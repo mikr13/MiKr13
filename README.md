@@ -7,10 +7,6 @@
 [![Website](https://img.shields.io/website?label=opendevs.in&style=for-the-badge&url=https://opendevs.in)](https://opendevs.in)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mikr13)
 
-</h2>
-
-<h2 align="center">
-
 [![Profile Views](https://komarev.com/ghpvc/?username=mikr13&label=Profile%20views&color=0e75b6&style=flat)](https://linkedin.com/in/mikr13)
 
 </h2>
