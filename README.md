@@ -60,7 +60,7 @@
 <!-- BLOG-POST-LIST:END -->
 <br />
 
-### Connect with me: <img src="https://github.com/MiKr13/MiKr13/blob/main/images/gif/Handshake.gif" height="24px" /></h3>
+### Connect with me: <img src="https://github.com/MiKr13/MiKr13/blob/main/images/gif/Handshake.gif" height="24px" />
 
 <p align="center">
 <a href="https://codepen.io/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/codepen.svg" alt="mikr13" width="26" /></a>&nbsp; &nbsp; &nbsp;
