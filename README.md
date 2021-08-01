@@ -1,6 +1,4 @@
-<h1>Hello World!&nbsp;<img src="https://github.com/MiKr13/MiKr13/blob/main/images/gif/Earth.gif" width="24px"></h1>
-
-<h2>I'm <a href="https://linkedin.com/in/mikr13" target="_blank">Mihir Kumar </a><img src="https://github.com/MiKr13/MiKr13/blob/main/images/gif/Hi.gif" width="24px"></h2>
+<h1>Hello World!&nbsp;<img src="https://github.com/MiKr13/MiKr13/blob/main/images/gif/Earth.gif" width="24px"> &nbsp;&nbsp; I'm <a href="https://linkedin.com/in/mikr13" target="_blank">Mihir Kumar </a><img src="https://github.com/MiKr13/MiKr13/blob/main/images/gif/Hi.gif" width="24px"></h1>
 
 <h2 align="center">
 
@@ -18,7 +16,7 @@
 <br>
 <br>
 
-## Indian <code>IN</code>. Fast learner & go-getter. JavaScript & Design Pattern Enthusiast. A friend! 🙌
+## Fast learner & go-getter. JavaScript & Design Pattern Enthusiast. A friend! 🙌
 
 - 🔥 I'm co-founder of open source initiate [open-devs](https://github.com/open-devs)
 
