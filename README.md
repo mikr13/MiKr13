@@ -40,6 +40,8 @@
 
 ### Blogs, Answers & posts:
 <!-- BLOG-POST-LIST:START -->
+- [Answer by MiKr13 for Docker VS Code WSL 2 exception](https://stackoverflow.com/questions/68618978/docker-vs-code-wsl-2-exception/68626101#68626101)
+- [Answer by MiKr13 for Get TypeError: Cannot read property of undefined](https://stackoverflow.com/questions/68625770/get-typeerror-cannot-read-property-of-undefined/68625986#68625986)
 - [Answer by MiKr13 for Vue JS throwing type error for delete request using a new Form](https://stackoverflow.com/questions/68540515/vue-js-throwing-type-error-for-delete-request-using-a-new-form/68540630#68540630)
 - [Answer by MiKr13 for Autoformatting of *.vue files in VSCode not working](https://stackoverflow.com/questions/68526262/autoformatting-of-vue-files-in-vscode-not-working/68526471#68526471)
 - [Answer by MiKr13 for Unable to install node modules in Nestjs project](https://stackoverflow.com/questions/66544116/unable-to-install-node-modules-in-nestjs-project/66565267#66565267)
@@ -53,8 +55,6 @@
 - [Answer by MiKr13 for node.js: read a text file into an array. (Each line an item in the array.)](https://stackoverflow.com/questions/6831918/node-js-read-a-text-file-into-an-array-each-line-an-item-in-the-array/63155678#63155678)
 - [Answer by MiKr13 for Creating watermark using html and css](https://stackoverflow.com/questions/21458162/creating-watermark-using-html-and-css/63021761#63021761)
 - [Answer by MiKr13 for Is it possible to add duration and easing to window.scrollTo?](https://stackoverflow.com/questions/30667811/is-it-possible-to-add-duration-and-easing-to-window-scrollto/62669495#62669495)
-- [Answer by MiKr13 for Regular Expression for alphanumeric and underscores](https://stackoverflow.com/questions/336210/regular-expression-for-alphanumeric-and-underscores/62263317#62263317)
-- [Answer by MiKr13 for Regex for password must contain at least eight characters, at least one number and both lower and uppercase letters and special characters](https://stackoverflow.com/questions/19605150/regex-for-password-must-contain-at-least-eight-characters-at-least-one-number-a/62196974#62196974)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
