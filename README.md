@@ -77,6 +77,10 @@
 
 ### StackOverflow Activity ✅
 <!-- STACKOVERFLOW:START -->
+- [Answer by MiKr13 for Docker VS Code WSL 2 exception](https://stackoverflow.com/questions/68618978/docker-vs-code-wsl-2-exception/68626101#68626101)
+- [Answer by MiKr13 for Get TypeError: Cannot read property of undefined](https://stackoverflow.com/questions/68625770/get-typeerror-cannot-read-property-of-undefined/68625986#68625986)
+- [Answer by MiKr13 for Vue JS throwing type error for delete request using a new Form](https://stackoverflow.com/questions/68540515/vue-js-throwing-type-error-for-delete-request-using-a-new-form/68540630#68540630)
+- [Answer by MiKr13 for Autoformatting of *.vue files in VSCode not working](https://stackoverflow.com/questions/68526262/autoformatting-of-vue-files-in-vscode-not-working/68526471#68526471)
 <!-- STACKOVERFLOW:END -->
 <br />
 
