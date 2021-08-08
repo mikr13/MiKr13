@@ -7,7 +7,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mikr13&label=Profile%20views&color=0e75b6&style=flat)](https://linkedin.com/in/mikr13)
 
-<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=mikr13&rank=SSS,SS,S,AAA,A,SECRET&row=2&column=5&margin-w=15&margin-h=15&no-frame=true&theme=onestar" alt="mikr13" /></p>
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=mikr13&rank=SSS,SS,S,AAA,A,SECRET&row=2&column=4&margin-w=15&margin-h=15&no-frame=true&theme=onestar" alt="mikr13" /></p>
 
 </h2>
 
