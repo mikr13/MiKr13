@@ -1,6 +1,4 @@
-<h1>Hello World!&nbsp;<img src="https://github.com/MiKr13/MiKr13/blob/main/images/gif/Earth.gif" width="24px"></h1>
-
-<h2>I'm <a href="https://linkedin.com/in/mikr13" target="_blank">Mihir Kumar </a><img src="https://github.com/MiKr13/MiKr13/blob/main/images/gif/Hi.gif" width="24px"></h2>
+![Hello there, I'm Mihir Kumar](./images/top.svg)
 
 <h2 align="center">
 
@@ -9,16 +7,11 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mikr13&label=Profile%20views&color=0e75b6&style=flat)](https://linkedin.com/in/mikr13)
 
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=mikr13&rank=SSS,SS,S,AAA,A,SECRET&row=2&column=5&margin-w=15&margin-h=15&no-frame=true&theme=onestar" alt="mikr13" /></p>
+
 </h2>
 
-<br>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikr13&show_icons=true&locale=en" alt="mikr13" /></a> </p>
-
-<br>
-<br>
-
-## Indian <code>IN</code>. Fast learner & go-getter. JavaScript & Design Pattern Enthusiast. A friend! 🙌
+## Fast learner & go-getter. JavaScript & Design Pattern Enthusiast. A friend! 🙌
 
 - 🔥 I'm co-founder of open source initiate [open-devs](https://github.com/open-devs)
 
@@ -40,56 +33,114 @@
 
 <br />
 
-### Blogs, Answers & posts:
+## 🚀 Languages and Tools
+
+### Programming Language 👉
+
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%23FFD947.svg?style=for-the-badge&logo=python&logoColor=%23356C9B"/>
+<img alt="C" src="https://img.shields.io/badge/C-%235C6BC0.svg?style=for-the-badge&logo=C&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+
+### Front-end 👉
+
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+<img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+<img alt="Svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"/>
+<img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+<img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-black.svg?style=for-the-badge&logo=Nuxt.JS&logoColor=white"/>
+<img alt="Gridsome" src="https://img.shields.io/badge/Gridsome-darkgreen.svg?style=for-the-badge&logo=Gridsome&logoColor=white"/>
+<img alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
+<img alt="Vuex" src="https://img.shields.io/badge/vuex-%2335495e.svg?style=for-the-badge&logo=vuex&logoColor=%234FC08D"/>
+<img alt="Pwa" src="https://img.shields.io/badge/pwa-%23593d88.svg?style=for-the-badge&logo=pwa&logoColor=white"/>
+<img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
+<img alt="Vuetify" src="https://img.shields.io/badge/vuetify-%230081CB.svg?style=for-the-badge&logo=vuetify&logoColor=white"/>
+<img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+
+### Back-end 👉
+
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img alt="Fastify" src="https://img.shields.io/badge/fastify-%1212234E.svg?style=for-the-badge&logo=fastify&logoColor=white" />
+<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%23FFD947.svg?style=for-the-badge&logo=python&logoColor=%23356C9B"/>
+<img alt="Spring" src="https://img.shields.io/badge/Spring-%23FFD947.svg?style=for-the-badge&logo=Spring&logoColor=%23356C9B"/>
+
+### Database 👉
+
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+<img alt="neo4j" src ="https://img.shields.io/badge/neo4j-%2307405e.svg?style=for-the-badge&logo=neo4j&logoColor=white"/>
+
+### 👉 Unit Testing
+
+<img alt="Testing-Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
+<img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
+
+### Technologies 👉
+<img alt="aws" src="https://img.shields.io/badge/-AWS-F90?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-%230081CB?style=for-the-badge&logo=Docker&logoColor=white"/>
+<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-%2300f?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-F90?style=for-the-badge&logo=Linux&logoColor=white"/>
+<img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-F90.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
+
+### Connect with me 🤝
+
+<a href="https://discord.gg/mikr13#3719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://linkedin.com/in/mikr13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://twitter.com/opendevs_2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="opendevs_2020" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://codepen.io/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/codepen.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://medium.com/@mikr13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mikr13" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://dev.to/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp;
+
+<a href="https://stackoverflow.com/users/9360885/mikr13"><img src="https://stackoverflow.com/users/flair/9360885.png" width="208" height="58" alt="profile for mikr13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for mikr13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" height="30" width="40" ></a>
+<br />
+
+### Blogs, Answers & posts 📕
 <!-- BLOG-POST-LIST:START -->
-- [Answer by MiKr13 for Unable to install node modules in Nestjs project](https://stackoverflow.com/questions/66544116/unable-to-install-node-modules-in-nestjs-project/66565267#66565267)
-- [Answer by MiKr13 for Node.js nodemailer error - wrong version number/invalid greeting](https://stackoverflow.com/questions/66317125/node-js-nodemailer-error-wrong-version-number-invalid-greeting/66317696#66317696)
-- [you need to relax a little developers](https://dev.to/opendevs_2020/you-need-to-relax-a-little-developers-4l6c)
-- [you need to relax a little developers](https://opendevs-2020.medium.com/you-need-to-relax-a-little-developers-9c8d32728867?source=rss-4e39b8f9d0e2------2)
-- [Answer by MiKr13 for list tags contained by a branch](https://stackoverflow.com/questions/2381665/list-tags-contained-by-a-branch/66120388#66120388)
-- [fastify typeScript generator: a generator for creating fastify server with typescript](https://dev.to/opendevs_2020/fastify-typescript-generator-a-generator-for-creating-fastify-server-with-typescript-j3e)
-- [fastify typeScript generator: a generator for creating fastify server with typescript](https://blog.usejournal.com/fastify-typescript-generator-a-generator-for-creating-fastify-server-with-typescript-c178dcf282c9?source=rss-4e39b8f9d0e2------2)
-- [My early experiences working in product based startup companies](https://dev.to/mikr13/my-early-experiences-working-in-product-based-startup-companies-4dgf)
-- [Answer by MiKr13 for node.js: read a text file into an array. (Each line an item in the array.)](https://stackoverflow.com/questions/6831918/node-js-read-a-text-file-into-an-array-each-line-an-item-in-the-array/63155678#63155678)
-- [Answer by MiKr13 for Creating watermark using html and css](https://stackoverflow.com/questions/21458162/creating-watermark-using-html-and-css/63021761#63021761)
-- [Answer by MiKr13 for Is it possible to add duration and easing to window.scrollTo?](https://stackoverflow.com/questions/30667811/is-it-possible-to-add-duration-and-easing-to-window-scrollto/62669495#62669495)
-- [Answer by MiKr13 for Regular Expression for alphanumeric and underscores](https://stackoverflow.com/questions/336210/regular-expression-for-alphanumeric-and-underscores/62263317#62263317)
-- [Answer by MiKr13 for Regex for password must contain at least eight characters, at least one number and both lower and uppercase letters and special characters](https://stackoverflow.com/questions/19605150/regex-for-password-must-contain-at-least-eight-characters-at-least-one-number-a/62196974#62196974)
-- [Answer by MiKr13 for How to prevent npm from installing demo/sample/example/test code for a package?](https://stackoverflow.com/questions/61814829/how-to-prevent-npm-from-installing-demo-sample-example-test-code-for-a-package/61815263#61815263)
-- [Answer by MiKr13 for How set caret position in tinyMCE?](https://stackoverflow.com/questions/61569179/how-set-caret-position-in-tinymce/61570854#61570854)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
-### Connect with me: <img src="https://github.com/MiKr13/MiKr13/blob/main/images/gif/Handshake.gif" height="24px" /></h3>
-
-<p align="center">
-<a href="https://codepen.io/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/codepen.svg" alt="mikr13" width="26" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://dev.to/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/dev-dot-to.svg" alt="mikr13" width="26" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://linkedin.com/in/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/linkedin.svg" alt="mikr13" width="26" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://stackoverflow.com/users/9360885/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/stackoverflow.svg" alt="9360885/mikr13" width="26" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://codesandbox.com/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/codesandbox.svg" alt="mikr13" width="26" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://medium.com/@mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/medium.svg" alt="@mikr13" width="26" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://www.leetcode.com/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/leetcode.svg" alt="mikr13" width="26" /></a>
-</p>
-
+### StackOverflow Activity ✅
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
 <br />
 
-### Languages and Tools:
-
-<a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://gridsome.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="26"/> </a> &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://vuepress.vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="26"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="26"/> </a>
-
-<br />
-
-### Stats
+### Stats 🏆
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikr13&theme=algolia&hide_border=true" alt="mikr13" /></p>
 <br />
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikr13&show_icons=true&locale=en&theme=algolia" alt="mikr13" />
+</p>
+<br />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikr13&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mikr13" /></p>
 <br />
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mikr13&show_icons=true&locale=en&count_private=true&hide=contribs&theme=algolia" alt="mikr13" /></p>
 <br />
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikr13&theme=algolia" alt="mikr13" /></p>
+<br />
+
+### Currently Vibing to 🎧
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/c01yk92sexu2e2qk2n557c60z)
+
+<br>
 
 ### Let's get back to Coding! 💻
 
