@@ -33,7 +33,7 @@
 
 <br />
 
-## 🚀 Languages and Tools
+## Languages and Tools 🚀
 
 ### Programming Language 👉
 
@@ -51,7 +51,7 @@
 
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/> <img alt="neo4j" src ="https://img.shields.io/badge/neo4j-%2307405e.svg?style=for-the-badge&logo=neo4j&logoColor=white"/>
 
-### 👉 Unit Testing
+### Unit Testing 👉
 
 <img alt="Testing-Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/> <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/> <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
 
@@ -69,7 +69,9 @@
 
 <a href="https://stackoverflow.com/users/9360885/mikr13"><img src="https://stackoverflow.com/users/flair/9360885.png" width="208" height="58" alt="profile for mikr13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for mikr13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" height="30" width="40" ></a>
 <br />
-<br />
+
+
+## Blogs, Answers & Posts ✍
 
 ### Blogs, Answers & posts 📕
 <!-- BLOG-POST-LIST:START -->
@@ -90,7 +92,7 @@
 <!-- STACKOVERFLOW:END -->
 <br />
 
-### Stats 🏆
+## Stats 🏆
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikr13&theme=algolia&hide_border=true" alt="mikr13" /></p>
 <br />
@@ -104,7 +106,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikr13&theme=algolia" alt="mikr13" /></p>
 <br />
 
-### Currently Vibing to 🎧
+## Currently Vibing to 🎧
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/c01yk92sexu2e2qk2n557c60z)
 
