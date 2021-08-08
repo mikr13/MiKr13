@@ -1,4 +1,4 @@
-![Hello there, I'm Mihir Kumar](./images/top.svg)
+<a href="https://www.linkedin.com/in/mikr13" target="blank"><img align="center" src="./images/top.svg" alt="mikr13" /></a>
 
 <h2 align="center">
 
