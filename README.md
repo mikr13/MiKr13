@@ -69,6 +69,7 @@
 
 <a href="https://stackoverflow.com/users/9360885/mikr13"><img src="https://stackoverflow.com/users/flair/9360885.png" width="208" height="58" alt="profile for mikr13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for mikr13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" height="30" width="40" ></a>
 <br />
+<br />
 
 ### Blogs, Answers & posts 📕
 <!-- BLOG-POST-LIST:START -->
@@ -79,7 +80,6 @@
 - [My early experiences working in product based startup companies](https://dev.to/mikr13/my-early-experiences-working-in-product-based-startup-companies-4dgf)
 - [My early experiences working in product based startup companies](https://medium.com/@mikr13/my-early-experiences-working-in-product-based-startup-companies-f986d3d34035?source=rss-a0fd1ee09f18------2)
 <!-- BLOG-POST-LIST:END -->
-<br />
 
 ### StackOverflow Activity ✅
 <!-- STACKOVERFLOW:START -->
