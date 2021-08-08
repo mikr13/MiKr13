@@ -30,8 +30,42 @@
 - 🥅 2021 Goals: Make great products under open devs
 
 - ⚡ Fun fact: **Two things I love are walking roads less taken & being helpful**
-
 <br />
+
+## Blogs, Answers & Posts ✍
+
+### Blogs, Answers & posts 📕
+<!-- BLOG-POST-LIST:START -->
+- [you need to relax a little developers](https://dev.to/opendevs_2020/you-need-to-relax-a-little-developers-4l6c)
+- [you need to relax a little developers](https://opendevs-2020.medium.com/you-need-to-relax-a-little-developers-9c8d32728867?source=rss-4e39b8f9d0e2------2)
+- [fastify typeScript generator: a generator for creating fastify server with typescript](https://dev.to/opendevs_2020/fastify-typescript-generator-a-generator-for-creating-fastify-server-with-typescript-j3e)
+- [fastify typeScript generator: a generator for creating fastify server with typescript](https://blog.usejournal.com/fastify-typescript-generator-a-generator-for-creating-fastify-server-with-typescript-c178dcf282c9?source=rss-4e39b8f9d0e2------2)
+- [My early experiences working in product based startup companies](https://dev.to/mikr13/my-early-experiences-working-in-product-based-startup-companies-4dgf)
+- [My early experiences working in product based startup companies](https://medium.com/@mikr13/my-early-experiences-working-in-product-based-startup-companies-f986d3d34035?source=rss-a0fd1ee09f18------2)
+<!-- BLOG-POST-LIST:END -->
+
+### StackOverflow Activity ✅
+<!-- STACKOVERFLOW:START -->
+- [Answer by MiKr13 for Docker VS Code WSL 2 exception](https://stackoverflow.com/questions/68618978/docker-vs-code-wsl-2-exception/68626101#68626101)
+- [Answer by MiKr13 for Get TypeError: Cannot read property of undefined](https://stackoverflow.com/questions/68625770/get-typeerror-cannot-read-property-of-undefined/68625986#68625986)
+- [Answer by MiKr13 for Vue JS throwing type error for delete request using a new Form](https://stackoverflow.com/questions/68540515/vue-js-throwing-type-error-for-delete-request-using-a-new-form/68540630#68540630)
+- [Answer by MiKr13 for Autoformatting of *.vue files in VSCode not working](https://stackoverflow.com/questions/68526262/autoformatting-of-vue-files-in-vscode-not-working/68526471#68526471)
+<!-- STACKOVERFLOW:END -->
+<br />
+
+
+## Connect with me 🤝
+
+<a href="https://discord.gg/mikr13#3719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
+<a href="https://linkedin.com/in/mikr13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
+<a href="https://twitter.com/opendevs_2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="opendevs_2020" height="30" width="40" /></a>&nbsp; &nbsp;
+<a href="https://codepen.io/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/codepen.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
+<a href="https://medium.com/@mikr13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
+<a href="https://dev.to/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
+
+<a href="https://stackoverflow.com/users/9360885/mikr13"><img src="https://stackoverflow.com/users/flair/9360885.png" width="208" height="58" alt="profile for mikr13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for mikr13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" height="30" width="40" ></a>
+<br />
+
 
 ## Languages and Tools 🚀
 
@@ -56,41 +90,8 @@
 <img alt="Testing-Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/> <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/> <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
 
 ### Technologies 👉
+
 <img alt="aws" src="https://img.shields.io/badge/-AWS-F90?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/-Docker-%230081CB?style=for-the-badge&logo=Docker&logoColor=white"/> <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-%2300f?style=for-the-badge&logo=Kubernetes&logoColor=white"/> <img alt="Linux" src="https://img.shields.io/badge/-Linux-F90?style=for-the-badge&logo=Linux&logoColor=white"/> <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/firebase-F90.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
-
-### Connect with me 🤝
-
-<a href="https://discord.gg/mikr13#3719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
-<a href="https://linkedin.com/in/mikr13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
-<a href="https://twitter.com/opendevs_2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="opendevs_2020" height="30" width="40" /></a>&nbsp; &nbsp;
-<a href="https://codepen.io/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/codepen.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
-<a href="https://medium.com/@mikr13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
-<a href="https://dev.to/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
-
-<a href="https://stackoverflow.com/users/9360885/mikr13"><img src="https://stackoverflow.com/users/flair/9360885.png" width="208" height="58" alt="profile for mikr13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for mikr13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" height="30" width="40" ></a>
-<br />
-
-
-## Blogs, Answers & Posts ✍
-
-### Blogs, Answers & posts 📕
-<!-- BLOG-POST-LIST:START -->
-- [you need to relax a little developers](https://dev.to/opendevs_2020/you-need-to-relax-a-little-developers-4l6c)
-- [you need to relax a little developers](https://opendevs-2020.medium.com/you-need-to-relax-a-little-developers-9c8d32728867?source=rss-4e39b8f9d0e2------2)
-- [fastify typeScript generator: a generator for creating fastify server with typescript](https://dev.to/opendevs_2020/fastify-typescript-generator-a-generator-for-creating-fastify-server-with-typescript-j3e)
-- [fastify typeScript generator: a generator for creating fastify server with typescript](https://blog.usejournal.com/fastify-typescript-generator-a-generator-for-creating-fastify-server-with-typescript-c178dcf282c9?source=rss-4e39b8f9d0e2------2)
-- [My early experiences working in product based startup companies](https://dev.to/mikr13/my-early-experiences-working-in-product-based-startup-companies-4dgf)
-- [My early experiences working in product based startup companies](https://medium.com/@mikr13/my-early-experiences-working-in-product-based-startup-companies-f986d3d34035?source=rss-a0fd1ee09f18------2)
-<!-- BLOG-POST-LIST:END -->
-
-### StackOverflow Activity ✅
-<!-- STACKOVERFLOW:START -->
-- [Answer by MiKr13 for Docker VS Code WSL 2 exception](https://stackoverflow.com/questions/68618978/docker-vs-code-wsl-2-exception/68626101#68626101)
-- [Answer by MiKr13 for Get TypeError: Cannot read property of undefined](https://stackoverflow.com/questions/68625770/get-typeerror-cannot-read-property-of-undefined/68625986#68625986)
-- [Answer by MiKr13 for Vue JS throwing type error for delete request using a new Form](https://stackoverflow.com/questions/68540515/vue-js-throwing-type-error-for-delete-request-using-a-new-form/68540630#68540630)
-- [Answer by MiKr13 for Autoformatting of *.vue files in VSCode not working](https://stackoverflow.com/questions/68526262/autoformatting-of-vue-files-in-vscode-not-working/68526471#68526471)
-<!-- STACKOVERFLOW:END -->
-<br />
 
 ## Stats 🏆
 
