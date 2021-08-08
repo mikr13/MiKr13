@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/mikr13" target="blank"><img align="center" src="./images/top.svg" alt="mikr13" /></a>
+<a href="https://www.linkedin.com/in/mikr13" target="_blank"><img align="center" src="./images/top.svg" alt="mikr13" /></a>
 
 <h2 align="center">
 
@@ -56,14 +56,14 @@
 
 ## Connect with me 🤝
 
-<a href="https://discord.gg/mikr13#3719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
-<a href="https://linkedin.com/in/mikr13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
-<a href="https://twitter.com/opendevs_2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="opendevs_2020" height="30" width="40" /></a>&nbsp; &nbsp;
-<a href="https://codepen.io/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/codepen.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
-<a href="https://medium.com/@mikr13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
-<a href="https://dev.to/mikr13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
+<a href="https://discord.gg/mikr13#3719" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
+<a href="https://linkedin.com/in/mikr13" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
+<a href="https://twitter.com/opendevs_2020" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="opendevs_2020" height="30" width="40" /></a>&nbsp; &nbsp;
+<a href="https://codepen.io/mikr13" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/codepen.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
+<a href="https://medium.com/@mikr13" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
+<a href="https://dev.to/mikr13" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
 
-<a href="https://stackoverflow.com/users/9360885/mikr13"><img src="https://stackoverflow.com/users/flair/9360885.png" width="208" height="58" alt="profile for mikr13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for mikr13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" height="30" width="40" ></a>
+<a href="https://stackoverflow.com/users/9360885/mikr13" target="_blank"><img src="https://stackoverflow.com/users/flair/9360885.png" width="208" height="58" alt="profile for mikr13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for mikr13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" height="30" width="40" ></a>
 <br />
 
 
