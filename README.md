@@ -97,12 +97,9 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikr13&theme=algolia&hide_border=true" alt="mikr13" /></p>
 <br />
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikr13&show_icons=true&locale=en&theme=algolia" alt="mikr13" />
-</p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mikr13&show_icons=true&locale=en&theme=algolia" alt="mikr13" /></p>
 <br />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikr13&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mikr13" /></p>
-<br />
 <br />
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikr13&theme=algolia" alt="mikr13" /></p>
 <br />
