@@ -15,19 +15,18 @@
 
 - 🔥 I'm co-founder of open source initiate [open-devs](https://github.com/open-devs)
 
-- 🎇 I’m a JavaScript enthusiast & a Node.js lover 🧡
+- 🎇 I’m a JavaScript enthusiast, a Node.js lover & currently all into React Ecosystem 🧡
 
-- 🌱 I’m currently learning **React-Native & Golang Web Development**
-
-- 👯 I’m looking to collaborate on [relax a little (vs code extension)](https://github.com/open-devs/relax-a-little)
+- 🌱 I’m currently learning **React-Native & Next.JS**
 
 - 💬 Ask me about **React, Vue.js, Angular, Node.js, JavaScript, TypeScript, devops, career or technology advice**.
 
-- 📝 I sometimes write articles on [medium.com/@mikr13](https://medium.com/@mikr13), [medium.com/@opendevs-2020](https://opendevs-2020.medium.com/), [open devs webite](https://opendevs.in), [dev.to/@mikr13](https://dev.to/mikr13) & [dev.to/@opendevs_2020](https://dev.to/opendevs_2020)
+- 👯 I’m looking to collaborate on [relax a little (vs code extension)](https://github.com/open-devs/relax-a-little)
 
 - 🥅 2021 Goals: Make great products under open devs
 
 - ⚡ Fun fact: **I think someday JavaScript will save the world!**
+
 <br />
 
 ## Blogs & Answers ✍
