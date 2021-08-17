@@ -21,20 +21,18 @@
 
 - 👯 I’m looking to collaborate on [relax a little (vs code extension)](https://github.com/open-devs/relax-a-little)
 
-- 📝 I regularly write articles on [medium.com/@mikr13](https://medium.com/@mikr13), [medium.com/@opendevs-2020](https://opendevs-2020.medium.com/), [open devs webite](https://opendevs.in), [dev.to/@mikr13](https://dev.to/mikr13) & [dev.to/@opendevs_2020](https://dev.to/opendevs_2020)
-
 - 💬 Ask me about **React, Vue.js, Angular, Node.js, JavaScript, TypeScript, devops, career or technology advice**.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mikr13](https://www.linkedin.com/in/mikr13)
+- 📝 I sometimes write articles on [medium.com/@mikr13](https://medium.com/@mikr13), [medium.com/@opendevs-2020](https://opendevs-2020.medium.com/), [open devs webite](https://opendevs.in), [dev.to/@mikr13](https://dev.to/mikr13) & [dev.to/@opendevs_2020](https://dev.to/opendevs_2020)
 
 - 🥅 2021 Goals: Make great products under open devs
 
-- ⚡ Fun fact: **Two things I love are walking roads less taken & being helpful**
+- ⚡ Fun fact: **I think someday JavaScript will save the world!**
 <br />
 
-## Blogs, Answers & Posts ✍
+## Blogs & Answers ✍
 
-### Blogs, Answers & posts 📕
+### Blogs 📕
 <!-- BLOG-POST-LIST:START -->
 - [you need to relax a little developers](https://dev.to/opendevs_2020/you-need-to-relax-a-little-developers-4l6c)
 - [you need to relax a little developers](https://opendevs-2020.medium.com/you-need-to-relax-a-little-developers-9c8d32728867?source=rss-4e39b8f9d0e2------2)
@@ -52,7 +50,6 @@
 - [Answer by MiKr13 for Autoformatting of *.vue files in VSCode not working](https://stackoverflow.com/questions/68526262/autoformatting-of-vue-files-in-vscode-not-working/68526471#68526471)
 <!-- STACKOVERFLOW:END -->
 <br />
-
 
 ## Connect with me 🤝
 
@@ -112,8 +109,3 @@
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/c01yk92sexu2e2qk2n557c60z)
 
 <br>
-
-### Let's get back to Coding! 💻
-
-[website]: https://opendevs.in
-[linkedin]: https://linkedin.com/in/mikr13
