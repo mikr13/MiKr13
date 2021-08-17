@@ -95,13 +95,16 @@
 
 ## Stats 🏆
 
+<p align="center"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mikr13&badges=4&style=--header-bg-color:%23050F2C;--border-radius:2px" alt="mikr13"
+/></p>
+<br />
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikr13&theme=algolia&hide_border=true" alt="mikr13" /></p>
 <br />
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mikr13&show_icons=true&locale=en&theme=algolia" alt="mikr13" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mikr13&show_icons=true&locale=en&theme=algolia&hide_border=true" alt="mikr13" /></p>
 <br />
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikr13&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mikr13" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikr13&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="mikr13" /></p>
 <br />
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikr13&theme=algolia" alt="mikr13" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikr13&theme=algolia&hide_border=true" alt="mikr13" /></p>
 <br />
 
 ## Currently Vibing to 🎧
