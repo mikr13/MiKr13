@@ -38,6 +38,7 @@
 - [fastify typeScript generator: a generator for creating fastify server with typescript](https://dev.to/opendevs_2020/fastify-typescript-generator-a-generator-for-creating-fastify-server-with-typescript-j3e)
 - [fastify typeScript generator: a generator for creating fastify server with typescript](https://opendevs-2020.medium.com/fastify-typescript-generator-a-generator-for-creating-fastify-server-with-typescript-c178dcf282c9?source=rss-4e39b8f9d0e2------2)
 - [My early experiences working in product based startup companies](https://dev.to/mikr13/my-early-experiences-working-in-product-based-startup-companies-4dgf)
+- [My early experiences working in product based startup companies](https://medium.com/@mikr13/my-early-experiences-working-in-product-based-startup-companies-f986d3d34035?source=rss-a0fd1ee09f18------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### StackOverflow Activity ✅
