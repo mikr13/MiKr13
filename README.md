@@ -98,8 +98,4 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikr13&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="mikr13" /></p>
 <br />
 
-## Currently Vibing to 🎧
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/c01yk92sexu2e2qk2n557c60z)
-
 <br>
