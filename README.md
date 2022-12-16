@@ -15,11 +15,11 @@
 
 - 🔥 I'm co-founder of open source initiate [open-devs](https://opendevs.in)
 
-- 🎇 I’m a JavaScript enthusiast, a Node.js lover & currently all into React Ecosystem 🧡
+- 🎇 I’m a JavaScript enthusiast, a Node.js lover & currently all into Golang Ecosystem 🧡
 
-- 🌱 I’m currently learning **React-Native & Next.JS**
+- 🌱 I’m currently learning **big & small System Designs**
 
-- 💬 Ask me about **React, Vue.js, Angular, Node.js, JavaScript, TypeScript, devops, career or technology advice**.
+- 💬 Ask me about **React, Vue.js, Svelte, Node.js, JavaScript, TypeScript, devops, career or technology advice**
 
 - 👯 I’m looking to collaborate on [relax a little (vs code extension)](https://github.com/open-devs/relax-a-little)
 
@@ -73,5 +73,3 @@
 <br />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikr13&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="mikr13" /></p>
 <br />
-
-<br>
