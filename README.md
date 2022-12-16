@@ -13,7 +13,7 @@
 
 ## Fast learner & go-getter. JavaScript & Design Pattern Enthusiast. A friend! 🙌
 
-- 🔥 I'm co-founder of open source initiate [open-devs](https://github.com/open-devs)
+- 🔥 I'm co-founder of open source initiate [open-devs](https://opendevs.in)
 
 - 🎇 I’m a JavaScript enthusiast, a Node.js lover & currently all into React Ecosystem 🧡
 
@@ -29,25 +29,6 @@
 
 <br />
 
-## Blogs & Answers ✍
-
-### Blogs 📕
-<!-- BLOG-POST-LIST:START -->
-- [you need to relax a little developers](https://opendevs-2020.medium.com/you-need-to-relax-a-little-developers-9c8d32728867?source=rss-4e39b8f9d0e2------2)
-- [fastify typeScript generator: a generator for creating fastify server with typescript](https://opendevs-2020.medium.com/fastify-typescript-generator-a-generator-for-creating-fastify-server-with-typescript-c178dcf282c9?source=rss-4e39b8f9d0e2------2)
-- [My early experiences working in product based startup companies](https://dev.to/mikr13/my-early-experiences-working-in-product-based-startup-companies-4dgf)
-- [My early experiences working in product based startup companies](https://medium.com/@mikr13/my-early-experiences-working-in-product-based-startup-companies-f986d3d34035?source=rss-a0fd1ee09f18------2)
-<!-- BLOG-POST-LIST:END -->
-
-### StackOverflow Activity ✅
-<!-- STACKOVERFLOW:START -->
-- [Answer by MiKr13 for How to display a counter in a window and make it close?](https://stackoverflow.com/questions/69864451/how-to-display-a-counter-in-a-window-and-make-it-close/69864628#69864628)
-- [Answer by MiKr13 for Docker VS Code WSL 2 exception](https://stackoverflow.com/questions/68618978/docker-vs-code-wsl-2-exception/68626101#68626101)
-- [Answer by MiKr13 for Get TypeError: Cannot read property of undefined](https://stackoverflow.com/questions/68625770/get-typeerror-cannot-read-property-of-undefined/68625986#68625986)
-- [Answer by MiKr13 for Vue JS throwing type error for delete request using a new Form](https://stackoverflow.com/questions/68540515/vue-js-throwing-type-error-for-delete-request-using-a-new-form/68540630#68540630)
-<!-- STACKOVERFLOW:END -->
-<br />
-
 ## Connect with me 🤝
 
 <a href="https://discord.gg/mikr13#3719" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
@@ -56,7 +37,6 @@
 <a href="https://codepen.io/mikr13" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/codepen.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
 <a href="https://medium.com/@mikr13" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
 <a href="https://dev.to/mikr13" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
-
 <a href="https://stackoverflow.com/users/9360885/mikr13" target="_blank"><img src="https://stackoverflow.com/users/flair/9360885.png" width="208" height="58" alt="profile for mikr13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for mikr13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" height="30" width="40" ></a>
 <br />
 
@@ -73,11 +53,11 @@
 
 ### Back-end 👉
 
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /> <img alt="Fastify" src="https://img.shields.io/badge/fastify-%1212234E.svg?style=for-the-badge&logo=fastify&logoColor=white" /> <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%23FFD947.svg?style=for-the-badge&logo=python&logoColor=%23356C9B"/> <img alt="Spring" src="https://img.shields.io/badge/Spring-%23FFD947.svg?style=for-the-badge&logo=Spring&logoColor=%23356C9B"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> <img alt="Fastify" src="https://img.shields.io/badge/fastify-%1212234E.svg?style=for-the-badge&logo=fastify&logoColor=white" /> <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 
 ### Database 👉
 
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/> <img alt="neo4j" src ="https://img.shields.io/badge/neo4j-%2307405e.svg?style=for-the-badge&logo=neo4j&logoColor=white"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/> <img alt="neo4j" src ="https://img.shields.io/badge/neo4j-%2307405e.svg?style=for-the-badge&logo=neo4j&logoColor=white"/>
 
 ### Unit Testing 👉
 
