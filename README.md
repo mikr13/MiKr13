@@ -64,10 +64,3 @@
 ## Stats 🏆
 
 <p align="center"><a href="https://profile.codersrank.io/user/mikr13/" target="_blank"><img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mikr13&show-avatar=true" alt="mikr13 codersrank stat" /></a></p>
-<br />
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikr13&theme=algolia&hide_border=true" alt="mikr13" /></p>
-<br />
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mikr13&show_icons=true&locale=en&theme=algolia&hide_border=true" alt="mikr13" /></p>
-<br />
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikr13&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="mikr13" /></p>
-<br />
