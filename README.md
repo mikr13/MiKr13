@@ -1,5 +1,3 @@
-<a href="https://www.linkedin.com/in/mikr13" target="_blank"><img align="center" src="./images/top.svg" alt="mikr13" /></a>
-
 <h2 align="center">
 
 [![Website](https://img.shields.io/website?label=opendevs.in&style=for-the-badge&url=https://opendevs.in)](https://opendevs.in)
