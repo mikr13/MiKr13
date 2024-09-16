@@ -11,7 +11,7 @@
 
 ## Fast learner & go-getter. JavaScript & Design Pattern Enthusiast. A friend! 🙌
 
-- 🔥 I'm co-founder of open source initiate [open-devs](https://opendevs.in)
+- 🔥 I'm co-founder of [pleadgeqa](https://pledgeqa.com) open source initiate [open-devs](https://opendevs.in)
 
 - 🎇 I’m a JavaScript enthusiast, a Node.js lover & currently all into Golang Ecosystem 🧡
 
