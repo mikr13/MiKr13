@@ -21,8 +21,6 @@
 
 - 👯 I’m looking to collaborate on [relax a little (vs code extension)](https://github.com/open-devs/relax-a-little)
 
-- 🥅 2021 Goals: Make great products under open devs
-
 - ⚡ Fun fact: **I think someday JavaScript will save the world!**
 
 <br />
