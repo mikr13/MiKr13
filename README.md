@@ -1,6 +1,6 @@
 <h2 align="center">
 
-[![Website](https://img.shields.io/website?label=opendevs.in&style=for-the-badge&url=https://opendevs.in)](https://opendevs.in)
+[![Website](https://img.shields.io/website?label=animations.mikr13.com&style=for-the-badge&url=https://animations.mikr13.com)](https://animations.mikr13.com)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mikr13)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mikr13&label=Profile%20views&color=0e75b6&style=flat)](https://linkedin.com/in/mikr13)
