@@ -11,15 +11,9 @@
 
 ## Fast learner & go-getter. JavaScript & Design Pattern Enthusiast. A friend! 🙌
 
-- 🔥 I'm co-founder of [pleadgeqa](https://pledgeqa.com) open source initiate [open-devs](https://opendevs.in)
-
 - 🎇 I’m a JavaScript enthusiast, a Node.js lover & currently all into Golang Ecosystem 🧡
 
-- 🌱 I’m currently learning **big & small System Designs**
-
-- 💬 Ask me about **React, Vue.js, Svelte, Node.js, JavaScript, TypeScript, devops, career or technology advice**
-
-- 👯 I’m looking to collaborate on [relax a little (vs code extension)](https://github.com/open-devs/relax-a-little)
+- 💬 Ask me about **React, Vue.js, Svelte, Node.js, TypeScript, Python, devops, career or technology advice**
 
 - ⚡ Fun fact: **I think someday JavaScript will save the world!**
 
