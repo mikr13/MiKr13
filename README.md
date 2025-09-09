@@ -11,19 +11,19 @@
 
 ## Fast learner & go-getter. JavaScript & Design Pattern Enthusiast. A friend! 🙌
 
-- I’m a JavaScript enthusiast, a Node.js lover & currently all into Golang Ecosystem 🧡
+- I’m a JavaScript enthusiast, a Node.js lover & currently all into Python Ecosystem
 
 - Ask me about **React, Vue.js, Svelte, Node.js, TypeScript, Python, devops, career or technology advice**
-
-- Fun fact: **I think someday JavaScript will save the world!**
 
 - I'm co-founder of [pleadgeqa](https://pledgeqa.com) open source initiate [open-devs](https://opendevs.in)
 
 - Try out [relax a little (vs code extension)](https://github.com/open-devs/relax-a-little)
+  
+- Fun fact: **I think someday JavaScript will save the world!**
 
 <br />
 
-## Connect with me 🤝
+## Connect with me
 
 <a href="https://discord.gg/mikr13#2926" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;
 <a href="https://linkedin.com/in/mikr13" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikr13" height="30" width="40" /></a>&nbsp; &nbsp;<br/><br/>
