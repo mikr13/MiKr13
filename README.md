@@ -17,7 +17,7 @@
 
 - I'm co-founder of [pleadgeqa](https://pledgeqa.com) open source initiate [open-devs](https://opendevs.in)
 
-- Try out [relax a little (vs code extension)](https://github.com/open-devs/relax-a-little)
+- Try out [relax a little (vs code extension)](https://github.com/open-devs/relax-a-little) or [javascript explorer](https://mikr13.github.io/javascript-explorer/)
   
 - Fun fact: **I think someday JavaScript will save the world!**
 
